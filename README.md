@@ -6,6 +6,7 @@
 
 # Roman, 18 y.o. chemistry major student interested in Python 
 
+
 ## Избранные проекты
 
 | Проект | Что делает |
