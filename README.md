@@ -1,7 +1,7 @@
 <!-- БАННЕР. Загрузи свою картинку в assets/ и замени путь в src. -->
 
 <p align="center">
-  <img src="./lain-banner.png" width="100%" alt="Lain Iwakura">
+  <img src="./lain-banner.jpg" width="100%" alt="Lain Iwakura">
 </p>
 
 # Roman, 18 y.o. chemistry major student interested in Python 
