@@ -4,9 +4,7 @@
   <img src="assets/banner.svg" width="100%" alt="Chemistry and scientific Python — stylized spectrum">
 </p>
 
-# Привет, я Роман
-
-Учусь на химфаке МГУ. Пишу на Python инструменты для задач из лаборатории — от сопоставления ЯМР-сигналов до подготовки файлов к статье. Интересуюсь органическим синтезом, спектроскопией и хемоинформатикой.
+# Roman, 18 y.o. chemistry major student interested in Python 
 
 ## Избранные проекты
 
